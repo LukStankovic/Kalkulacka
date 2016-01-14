@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/12/06 09:53:08.596.cpp,C:\Users\LukStan\Documents\Borland Studio Projects\Unit2.cpp=D:\C++\VCL\Kalkulačka\MOJE\main.cpp</Transaction>
+    <Transaction>2015/12/06 09:53:08.596.h,C:\Users\LukStan\Documents\Borland Studio Projects\Unit2.h=D:\C++\VCL\Kalkulačka\MOJE\main.h</Transaction>
+    <Transaction>2015/12/06 09:53:08.596.dfm,C:\Users\LukStan\Documents\Borland Studio Projects\Unit2.dfm=D:\C++\VCL\Kalkulačka\MOJE\main.dfm</Transaction>
+    <Transaction>2015/12/06 09:53:20.573.bdsproj,C:\Users\LukStan\Documents\Borland Studio Projects\Project3.bdsproj=D:\C++\VCL\Kalkulačka\MOJE\kalkulacka_lukas.bdsproj</Transaction>
+    <Transaction>2015/12/06 09:53:32.045.bdsproj,D:\C++\VCL\Kalkulačka\MOJE\kalkulacka_lukas.bdsproj=D:\C++\VCL\Kalkulačka\MOJE\kalkulacka_stankovic.bdsproj</Transaction>
+    <Transaction>2015/12/06 11:31:22.934.cpp,D:\C++\VCL\Kalkulačka\MOJE\Unit1.cpp=D:\C++\VCL\Kalkulačka\MOJE\operace.cpp</Transaction>
+    <Transaction>2015/12/06 11:31:22.934.h,D:\C++\VCL\Kalkulačka\MOJE\Unit1.h=D:\C++\VCL\Kalkulačka\MOJE\operace.h</Transaction>
+    <Transaction>2015/12/06 11:41:00.510.cpp,D:\C++\VCL\Kalkulačka\MOJE\operace.cpp=</Transaction>
+    <Transaction>2015/12/07 19:24:42.594.cpp,D:\C++\VCL\Kalkulačka\MOJE\Unit2.cpp=D:\C++\VCL\Kalkulačka\MOJE\telesa.cpp</Transaction>
+    <Transaction>2015/12/07 19:24:43.214.h,D:\C++\VCL\Kalkulačka\MOJE\Unit2.h=D:\C++\VCL\Kalkulačka\MOJE\telesa.h</Transaction>
+    <Transaction>2015/12/07 19:24:43.214.dfm,D:\C++\VCL\Kalkulačka\MOJE\Unit2.dfm=D:\C++\VCL\Kalkulačka\MOJE\telesa.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
